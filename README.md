@@ -10,6 +10,7 @@
 | person_name        | string  | null: false |
 | postal_code        | integer | null: false |
 | address            | string  | null: false |
+| phone_number       | integer | null: false |
 
 ### Association
 
